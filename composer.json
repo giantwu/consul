@@ -10,11 +10,12 @@
         }
     },
     "require": {
-        "easyswoole/spl": "^1.1",
-        "easyswoole/http-client": "^1.2.5"
+        "php": ">=8.1",
+        "easyswoole/spl": "^2.0",
+        "easyswoole/http-client": "^1.6.2"
     },
     "require-dev": {
-        "easyswoole/phpunit": "^1.0",
+        "easyswoole/phpunit": "^1.1",
         "easyswoole/swoole-ide-helper": "^1.1"
     }
 }
